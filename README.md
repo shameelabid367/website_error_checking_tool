@@ -20,3 +20,10 @@ Example:
 The error code will also save to MongoDB along with its URL. The sample schema is added in below image.
 
 ![Error Checker Tool](screenshots/3.png)
+
+This project is deployed using Django.
+
+## Required libraries
+- Django `pip install django`
+- Beautiful Soup `pip install beautifulsoup4`
+- Pymongo `pip install pymongo`
