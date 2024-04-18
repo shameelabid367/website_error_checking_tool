@@ -1,14 +1,14 @@
 # website_error_checking_tool
 
-![Error Checker Tool](screenshots/1)
+![Error Checker Tool](screenshots/1.png)
 
 You can enter any website url to check the entire page and its sub navigating links. 
 
-![Error Checker Tool](screenshots/2)
+![Error Checker Tool](screenshots/2.png)
 
 It will start to scan and show scanning progress real-time using **StreamingHttpResponse**
 
-![Error Checker Tool](screenshots/4)
+![Error Checker Tool](screenshots/4.png)
 
 Once the check completed it will list out the error code. In this case its **404**. Which means **Not Found**
 
@@ -19,4 +19,4 @@ Example:
 
 The error code will also save to MongoDB along with its URL. The sample schema is added in below image.
 
-![Error Checker Tool](screenshots/3)
+![Error Checker Tool](screenshots/3.png)
